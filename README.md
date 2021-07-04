@@ -6,6 +6,8 @@ Using 'joint' functionality, create a physical slingshot, where the goal of the 
 
 This game was made for Introduction to Game Development Lecture final exam <b>in just 30 minutes and using only default 3D objects</b> included in Unity.
 
+Joint can be moved with WASD keys. And the ball can be moved with mouse position while holding RMB. Releasing RMB causes a catapult effect.
+
 <b>Screenshots:</b>
 
 
